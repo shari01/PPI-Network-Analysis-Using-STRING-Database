@@ -39,13 +39,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>PPI Network Analysis Using STRING Database</h1>
-        <p>
-            This project enables researchers to analyze <strong>protein-protein interaction (PPI)</strong> networks using the 
-            <strong>STRING database</strong>. The script processes a list of genes, retrieves interaction data, builds a network, 
-            and identifies important genes based on their <strong>connectivity (node degree)</strong>. It is particularly useful for identifying 
-            <strong>hub genes</strong> that play a crucial role in biological networks.
-        </p>
+        
 
         <h2>Features</h2>
         <ul>
